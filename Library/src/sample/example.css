@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 26, 2021, 9:18:36 AM
+    Author     : Hp
+*/
+
+.btnreg{
+    -fx-background-color:orangered;
+    -fx-border:none;
+    -fx-font-weight:bold;
+    -fx-font-family:arial;
+    -fx-button-radius:8px;
+}
+.btnlog{
+    -fx-background-color:orangered;
+    -fx-border:none;
+     -fx-font-weight:bold;
+}
+
+.btnfp{
+    -fx-background-color:orangered;
+    -fx-border:none;
+     -fx-font-weight:bold;
+}
+.unlbl{
+    -fx-text-fill: lightblue;
+    -fx-font-weight:bold;
+    -fx-font-size:15;
+}
+.pwlbl{
+    -fx-text-fill: lightblue;
+    -fx-font-weight:bold;
+    -fx-font-size:15;
+}
+.lblq{
+    -fx-text-fill: whitesmoke;
+    -fx-font-weight:bold;
+    -fx-font-size:30;
+    -fx-font-family:"Calibri";
+
+}
+
+.vbox{
+    -fx-background-image:url("/hellofx/bg.jpeg");
+-fx-background-size:100% 100%;
+}
+.vb1{
+    -fx-background-image:url("/hellofx/ubg.jpeg");
+-fx-background-size:100% 100%;
+
+}
+#reglbl{
+    -fx-background-color:orange;
+    -fx-font-weight:bold;
+    -fx-padding:5px 7px 8px 9px;
+     -fx-font-size:13;
+}
+#regtxtfld{
+    -fx-background-color:-fx-controller-inner-background;
+    -fx-border-color: transparent transparent orangered transparent;
+    -fx-border-width:0 0 2 0;
+}
+#gen{
+    -fx-font-weight:bold;
+    -fx-font-size:13;
+    
+}
+#btns{
+     -fx-background-color:orangered;
+    -fx-border:white;
+     -fx-font-weight:bold;
+}
+#bookbtn{
+    -fx-background-color:black;
+    -fx-border:none;
+     -fx-font-weight:bold;
+     -fx-text-fill:white;
+    -fx-border-color: transparent transparent white transparent;
+    -fx-border-width:0 0 1 0;
+}
+.librscene{
+     -fx-background-image:url("/hellofx/librbg.jpeg");
+-fx-background-size:100% 100%;
+
+}
